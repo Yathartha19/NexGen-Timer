@@ -29,7 +29,7 @@ export default function RootLayout({ children }) {
         </div>
         {children}
         <div className="w-full bottom-6 fixed z-50 flex flex-row items-center justify-center">
-          <h1 className="text-3xl font-bold text-[#26498e]">Department of CSE</h1>
+          <h1 className="text-3xl font-bold text-[#d2d2d2]">Department of CSE</h1>
         </div>
       </body>
     </html>
