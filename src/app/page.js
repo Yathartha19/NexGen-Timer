@@ -4,7 +4,7 @@ import Countdown from 'react-countdown';
 import {AuroraBackground} from "./components/aurora-background.js";
 import {useRef, useEffect} from "react";
 
-const TIMER_END = '2025-02-16T08:30:00'
+const TIMER_END = '2026-02-22T16:00:00'
 
 export default function Home() {
   const timerRef = useRef(null);
